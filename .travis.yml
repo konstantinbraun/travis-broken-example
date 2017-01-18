@@ -8,4 +8,4 @@ deploy:
   provider: openshift
   user: "romashenko_kot@hotmail.com"
   password: "victory_OS" # can be encrypted
-  domain: "php-konstantintodos.rhcloud.com"
+  domain: "konstantintodos"
